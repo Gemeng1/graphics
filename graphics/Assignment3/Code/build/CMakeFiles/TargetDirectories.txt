@@ -1,0 +1,3 @@
+/Users/xiemeilan/graphics/Assignment3/Code/build/CMakeFiles/rebuild_cache.dir
+/Users/xiemeilan/graphics/Assignment3/Code/build/CMakeFiles/edit_cache.dir
+/Users/xiemeilan/graphics/Assignment3/Code/build/CMakeFiles/Rasterizer.dir

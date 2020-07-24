@@ -1,0 +1,3 @@
+/Users/xiemeilan/graphics/Assignment4/code/build/CMakeFiles/rebuild_cache.dir
+/Users/xiemeilan/graphics/Assignment4/code/build/CMakeFiles/edit_cache.dir
+/Users/xiemeilan/graphics/Assignment4/code/build/CMakeFiles/BezierCurve.dir
